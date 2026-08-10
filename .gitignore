@@ -1,7 +1,7 @@
 /node_modules
 /.next
-/dist
+/.open-next
 /.wrangler
-package-lock.json
 .env
 .env.local
+cloudflare-env.d.ts
