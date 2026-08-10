@@ -1,0 +1,6 @@
+{
+  "name": "viteblog",
+  "account_id": "f6424fcc8358196058b7248a01deabb8",
+  "compatibility_date": "2026-08-01",
+  "compatibility_flags": ["nodejs_compat"]
+}
