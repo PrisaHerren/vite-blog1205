@@ -119,11 +119,7 @@ const SingleVendor = () => {
                   <div className="entry-main-content dropcap wow fadeIn animated">
                     <p>Fretful human far recklessly while caterpillar well a well blubbered added one a some far whispered rampantly whispered while irksome far clung irrespective wailed more rosily and where saluted while black dear so yikes as considering recast to some crass until.</p>
                     <hr className="wp-block-separator is-style-dots" />
-                    <p>
-                      Thanks sniffed in hello after in foolhardy and some far purposefully much one at the much conjointly leapt skimpily that quail sheep some goodness
-                      <Link href="/#">nightingale</Link>
-                      the instead exited expedient up far ouch mellifluous altruistic and and lighted more instead much when ferret but the.
-                    </p>
+                    <p>小心別吵醒北極熊 挪威開罰逾16萬元</p>
                     <figure className="wp-block-gallery columns-3 wp-block-image">
                       <ul className="blocks-gallery-grid">
                         <li className="blocks-gallery-item">
