@@ -25,7 +25,7 @@ export default function Home() {
                     <span className="typewrite d-inline" data-period="2000" data-type='[ " Travel Blogger. ", "Content Writter. ", "Food Guides " ]'></span>
                   </p>
                   <h2>
-                    Hello, I’m <span>Steven</span>
+                    Hello, I’m <span>Bosana</span>
                   </h2>
                   <h3 className="mb-20"> Welcome to my blog</h3>
                   <h5 className="text-muted">Don't miss out on the latest news about Travel tips, Hotels review, Food guide...</h5>
